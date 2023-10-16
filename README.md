@@ -13,7 +13,7 @@
 - Clone this repository to your local machine.
 - Set up your Spotify API credentials to access the Spotify Web API.
 - Follow the provided installation and setup instructions to run the recommendation system locally.
-- 
+  
 🤝 Contributing
 - We welcome contributions from the open-source community. Whether you're interested in enhancing recommendation algorithms, improving the user interface, or adding new features, your contributions are valuable.
 
